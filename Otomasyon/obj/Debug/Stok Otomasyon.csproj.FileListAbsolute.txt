@@ -1,0 +1,92 @@
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\Stok Otomasyon.exe.config
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\Stok Otomasyon.exe
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\Stok Otomasyon.pdb
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.Drawing.v23.2.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.Utils.v23.2.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraBars.v23.2.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.Office.v23.2.Core.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.Office.v23.2.Core.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\obj\Debug\Stok Otomasyon.csproj.AssemblyReference.cache
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\obj\Debug\Stok_Otomasyon.FrmSiparisler.resources
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\obj\Debug\Stok_Otomasyon.Properties.Resources.resources
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\obj\Debug\Stok Otomasyon.csproj.GenerateResource.cache
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\obj\Debug\Stok Otomasyon.exe.licenses
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\obj\Debug\Stok Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\obj\Debug\Stok Oto.CC2E3CC1.Up2Date
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\obj\Debug\Stok Otomasyon.exe
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\obj\Debug\Stok Otomasyon.pdb
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\obj\Debug\Stok_Otomasyon.FrmDepo.resources
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\obj\Debug\Stok_Otomasyon.FrmGiriş.resources
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\obj\Debug\Stok_Otomasyon.FrmAnaEkran.resources
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\obj\Debug\Stok_Otomasyon.FrmFirma.resources
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\obj\Debug\Stok_Otomasyon.FrmUrun.resources
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.Charts.v23.2.Core.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.CodeParser.v23.2.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.DataAccess.v23.2.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.DataAccess.v23.2.UI.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.Diagram.v23.2.Core.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.Images.v23.2.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.PivotGrid.v23.2.Core.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.RichEdit.v23.2.Export.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.Utils.v23.2.UI.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.Xpo.v23.2.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraCharts.v23.2.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraCharts.v23.2.Extensions.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraDiagram.v23.2.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraGauges.v23.2.Core.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraNavBar.v23.2.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraPivotGrid.v23.2.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraReports.v23.2.CodeCompletion.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraReports.v23.2.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraReports.v23.2.Extensions.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraRichEdit.v23.2.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.DataVisualization.v23.2.Core.dll
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.Charts.v23.2.Core.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.DataAccess.v23.2.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.DataAccess.v23.2.UI.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.Diagram.v23.2.Core.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.PivotGrid.v23.2.Core.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.Utils.v23.2.UI.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.Xpo.v23.2.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraCharts.v23.2.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraDiagram.v23.2.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraGauges.v23.2.Core.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraNavBar.v23.2.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraPivotGrid.v23.2.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraReports.v23.2.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraReports.v23.2.CodeCompletion.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraReports.v23.2.Extensions.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraRichEdit.v23.2.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.xml
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\obj\Debug\Stok_Otomasyon.FrmGirisBilgDuzenle.resources
+C:\Users\syuce\OneDrive\Masaüstü\ders\yazılım müh\proje\Stok Otomasyon\obj\Debug\Stok_Otomasyon.frmRapor.resources
